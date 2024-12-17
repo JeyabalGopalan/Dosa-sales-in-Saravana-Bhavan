@@ -1,3 +1,2 @@
-# Dosa-sales-in-Saravana-Bhavan
-Predicting Dosa Sales Based on Customer Footfall at Saravana Bhavan  &  
-Estimating Daily Revenue at Saravana Bhavan Using Customer Visits, Dosa Sales, and Weather Conditions
+#Saravana_Bhavan_Hotel
+Using Simple and Multi Linear Regression to prdict Over-all Peroformance of Saravana Bhavan Hotel
